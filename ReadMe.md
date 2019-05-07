@@ -1,18 +1,13 @@
-## Simple site: Easy websites with GitHub pages
+### Tuts+ Tutorial: Building an Instagram Based Portfolio With Bootstrap
+#### Instructor: Steve Everett
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+In this tutorial I am going to run through the process of creating the simple Instagram based portfolio as seen in [this previous tutorial](http://webdesign.tutsplus.com/tutorials/designing-a-simple-instagram-based-portfolio-in-photoshop--cms-21402) by Thomas.
 
-This is a minimal tutorial to get started.
+Thomas has done a great job keeping the design simple, spacious and functional so I think it's only fair we do the same when building it. To make our lives easier we are going to rely on a few tools and libraries which I will cover in the next section.
 
-View the thing [here](https://kbroman.org/simple_site).
+Source files for the Tuts+ tutorial: [Building an Instagram Based Portfolio With Bootstrap
+](http://webdesign.tutsplus.com/tutorials/building-the-simple-instagram-based-portfolio--cms-22243)
 
----
+**Available on Tuts+ October 2014**
 
-To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
-<br/>
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[View the demo](http://tutsplus.github.io/building-an-instagram-based-portfolio-with-bootstrap)
